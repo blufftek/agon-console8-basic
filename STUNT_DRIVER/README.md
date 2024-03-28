@@ -6,4 +6,4 @@ This is the text of the description:
 
 > "You have three lives and each barrel you clear without crashing is worth 10 points. Stunt Driver will run on the BBC B or the Electron."
 
-(Ported to BBC Basic for SDL2 on an M1 Mac Mini in March 2024. Platform auto-detect version to run also on Agon/Console8 to come.)
+Ported to BBC Basic for SDL2 on an M1 Mac Mini in March 2024. Current version doesn't yet run correctly on Agon/Console8 (watch this space).
